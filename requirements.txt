@@ -1,0 +1,3 @@
+pip install django 4.x
+python -m pip install django-cors-headers
+pip install djangorestframework
