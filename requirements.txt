@@ -1,3 +1,3 @@
-python -m pip install django 4.2.1
-python -m pip install django-cors-headers
+pip install django 4.2.1
+pip install django-cors-headers
 pip install djangorestframework
